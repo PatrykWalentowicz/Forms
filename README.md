@@ -1,2 +1,2 @@
 # Forms
-This repository contains functions with forms 
+Forms fills empty gaps only for firefox.
